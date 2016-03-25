@@ -1,4 +1,4 @@
-myFuckingAwesomeMaping = {0:"Reserved (no event indicated)",
+hidMap = {0:"Reserved (no event indicated)",
 1:"Keyboard ErrorRollOver",
 2:"Keyboard POSTFail",
 3:"Keyboard ErrorUndefined",
